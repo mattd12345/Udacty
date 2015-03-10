@@ -1,0 +1,55 @@
+<!-- These are Matt Douglas's notes on "Getting Started with HTML".-->
+
+<head>
+  <title>Matt's Notes</title>
+</head>
+
+<h1>How the World Wide Web works</h1>
+<p>The web is a collection of HTML documents,
+HTML documents are the main type of document on the web.  Files that can be found on the web are Plain text, HTML, Images, Videos, and music.
+The web is made up of the largest computer network on earth. When a user tries to access 
+a website such as <a href="www.google.com">Google</a> the server finds the correct <em>HTML</em>
+Document to pass to the use's computer via the <b>Web Browser</b> ie. Chrome, IE, Firefox, etc.
+</p>
+
+<h2><b>HTML</b></h2>
+<p>HTML or <em>Hyper Text Markup Language</em> is very important to building
+a web page. HTML uses things like <b>Tags, Attributes and Elements</b>
+</p>
+
+
+<b>Tags:</b>
+</p>
+  HTML is made up of <b>"Tags"</b>.  <B>Tags</B> use "< >" to explain to the 
+  computer what to do with certain text. Tags typically have
+  an open tag <b>(< Name >)</b> and a closing tag <b>( < / Name >)</b>.  
+   
+  </p>
+  
+  <b>Attributes:</b>
+  <p> HTML also utilizes Attributes
+  Attributes allow you to do such things as link to a picture of <a href="http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fotagosh.blogspot.com%2F2015%2F01%2Fstewie-griffin-is-god.html&ei=1BH_VNexJIiSyAT5rYGQCQ&bvm=bv.87611401,d.aWw&psig=AFQjCNHKdUdICS9zOnQ_pA2I7Mq6dS2B3w&ust=1426088791520354">Stewie</a>.
+  </p>
+  
+  <b>Elements:</b>
+  <p>
+    The whole HTML statement is called an <em>Element</em>. HTML elements can be either inline
+    or block. <b>Block</b> elements create an invisible block around the txt where as an
+    <b>inline</b> element just ends the line.
+  </p>
+  
+  <h3>Computers and coding</h3>
+  <p>Computers are often said to be <em>Stupid</em> and in some sense they are. 
+    Computer’s can only do what we <b>tell</b> them to do.  Computers do not yet have 
+    the power to know what we are thinking so we need to explain to them what to do on a very basic level, and 
+    just like someone from another country, if we want them to do what we tell them to
+    we need to speak their language.  <b>HTML</b> is just one of many computer languages
+    that we can use to make computers do our bidding!.
+  </p>
+  
+  <h4>Key Learnings</h4>
+  <p> The two things that that really stuck with me from this lesson are:</p><p><b>1</b>. You cannot know
+  everything, learn the basics and the overall concepts and you can find everything
+  else you will need.</p></p> <b>2</b>. <em>Anyone</em> can learn <em>anything</em>
+    
+  </p>
